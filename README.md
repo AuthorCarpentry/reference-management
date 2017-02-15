@@ -1,22 +1,15 @@
-Author Carpentry : Lesson Template
+Author Carpentry : Reference management and text-based writing 
 =======
 
-A description of the lesson goes here.  If you're reading this on the github
-repo, you see the rendered lesson at:
+*Content Contributors: Sebastian Karcher*
 
-http://authorcarpentry.github.io/lesson-template-mkpage
-
-This template is inspired by the software and data carpentry templates, 
-but it employs the mkpage site generation tool as an alternative
-to Jekyll.  Full usage information is at the bottom of the page.
-
-**Content Contributors: Name **
-
-
-**Lesson Maintainers: Name **
-
+*Lesson Maintainers: Sebastian Karcher*
 
 **Lesson status: In Development**
+
+##Learning Objectives:
+- Using bibtex output from popular reference managers
+- Integrating Zotero into a pandoc-based writing workflow 
 
 ## Topics:
 
@@ -73,7 +66,6 @@ Add Content
 * Add individual .md files with lesson topics in repository with leading numbers like: 00-topic1.md;
 01-topic2.md
 * Edit nav.md to set links in the navigation bar
-* Edit CONTRIBUTORS as appropriate
 
 View Lesson
 
