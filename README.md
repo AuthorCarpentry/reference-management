@@ -7,7 +7,7 @@ Author Carpentry : Reference management and text-based writing
 
 **Lesson status: In Development**
 
-##Learning Objectives:
+## Learning Objectives:
 - Using bibtex output from popular reference managers
 - Integrating Zotero into a pandoc-based writing workflow 
 
