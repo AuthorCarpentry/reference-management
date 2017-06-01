@@ -12,6 +12,15 @@
 
 ----------------------------------------------------
 
+> ## Headline
+>
+> Question Text
+> 
+> > ## Solution
+> > 
+> > Solution test
+> >
+
 ## Motivations for the Open Refine Lesson
 
 * It's really important that you know what you did. More journals/grants/etc. are also making it important for them to know what you did. You can capture all steps done to your data in Open Refine to the raw file and share them with your publication as supplemental material.
