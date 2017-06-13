@@ -16,7 +16,7 @@ to Jekyll.  Full usage information is at the bottom of the page.
 
 **Lesson status: In Development**
 
-## Learning Objectives:
+## What you will learn:
 
 - One
 - Two
@@ -43,4 +43,10 @@ workflow.
 *These lessons assume no prior knowledge of the skills or tools*, but working
 through this lesson requires working copies of the software described below.
 To most effectively use these materials, please make sure to install everything
-*before* working through this lesson.                    
+*before* working through this lesson. 
+
+## Cheat Sheet
+
+## References
+
+                   
