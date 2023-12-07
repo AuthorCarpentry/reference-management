@@ -5,7 +5,7 @@ Author Carpentry : Reference management and text-based writing
 
 *Lesson Maintainers: Sebastian Karcher*
 
-**Lesson status: In Development**
+**Lesson status: Future**
 
 ## What you will learn:
 - Using bibtex output from popular reference managers
